@@ -1,0 +1,50 @@
+{
+  "name": "@gidw/eslint-config-standard-node",
+  "version": "16.0.2",
+  "description": "JavaScript Standard Style - ESLint Shareable Config",
+  "author": "Gilles De Waele",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "JavaScript Standard Style",
+    "check",
+    "checker",
+    "code",
+    "code checker",
+    "code linter",
+    "code standards",
+    "code style",
+    "enforce",
+    "hint",
+    "jscs",
+    "jshint",
+    "lint",
+    "policy",
+    "quality",
+    "simple",
+    "standard",
+    "standard style",
+    "style",
+    "style checker",
+    "style linter",
+    "verify"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "@gidw/eslint-config-standard": "16.0.2"
+  },
+  "peerDependencies": {
+    "eslint-plugin-node": "^11.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1"
+  },
+  "repository": "gitlab:gidw/eslint-config-standard-node.git",
+  "scripts": {
+    "lint": "eslint index.js"
+  }
+}

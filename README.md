@@ -1,2 +1,9 @@
-# Eslint Config Standard Node
+# eslint-config-standard=node
 
+Add to your `eslintrc`
+
+```
+{
+  "extends": "@gidw/eslint-config-standard-node"
+}
+```
