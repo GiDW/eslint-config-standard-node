@@ -6,7 +6,7 @@ Based on `eslint-config-standard`
 
 Add to your `eslintrc`
 
-```
+```json
 {
   "extends": "@gidw/eslint-config-standard-node"
 }
