@@ -38,10 +38,10 @@
     "eslint-plugin-node": "^11.1.0"
   },
   "devDependencies": {
-    "eslint": "^7.15.0",
-    "eslint-plugin-import": "^2.22.1",
+    "eslint": "^7.26.0",
+    "eslint-plugin-import": "^2.23.0",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^4.2.1"
+    "eslint-plugin-promise": "^5.1.0"
   },
   "repository": "gitlab:gidw/eslint-config-standard-node.git",
   "scripts": {
