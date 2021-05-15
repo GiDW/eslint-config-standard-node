@@ -35,7 +35,7 @@
     "@gidw/eslint-config-standard": "1.0.0"
   },
   "peerDependencies": {
-    "eslint-plugin-node": "^11.1.0"
+    "eslint-plugin-node": ">= 11"
   },
   "devDependencies": {
     "eslint": "^7.26.0",
