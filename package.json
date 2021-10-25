@@ -32,16 +32,16 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "@gidw/eslint-config-standard": "^1.0.1"
+    "@gidw/eslint-config-standard": "^1.0.2"
   },
   "peerDependencies": {
     "eslint-plugin-node": ">= 11"
   },
   "devDependencies": {
-    "eslint": "^7.26.0",
-    "eslint-plugin-import": "^2.23.0",
+    "eslint": "^8.1.0",
+    "eslint-plugin-import": "^2.25.2",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.1.0"
+    "eslint-plugin-promise": "^5.1.1"
   },
   "repository": "gitlab:gidw/eslint-config-standard-node.git",
   "scripts": {
