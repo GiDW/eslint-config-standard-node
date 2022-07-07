@@ -32,7 +32,7 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "@gidw/eslint-config-standard": "^1.1.0"
+    "@gidw/eslint-config-standard": "^1.1.1"
   },
   "peerDependencies": {
     "eslint-plugin-node": ">= 11"
